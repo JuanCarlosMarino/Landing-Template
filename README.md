@@ -5,7 +5,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/JuanCarlosMarino/Landing-Template)
 ![GitHub top language](https://img.shields.io/github/languages/top/JuanCarlosMarino/Landing-Template)
 ![GitHub repo size](https://img.shields.io/github/repo-size/JuanCarlosMarino/Landing-Template)
-![GitHub contributors](https://img.shields.io/github/contributors/JuanCarlosMarino/Landing-Template)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JuanCarlosMarino/Landing-Template)
 
 This is a mobile app landing page that is editable using React and styled components to create a slick and modern web design.

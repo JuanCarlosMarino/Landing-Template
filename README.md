@@ -1,10 +1,12 @@
 # Landing Template
 
 ![GitHub all releases](https://img.shields.io/github/downloads/JuanCarlosMarino/Landing-Template/total)
-![GitHub](https://img.shields.io/github/license/JuanCarlosMarino/GraphQlExample?color=FF3333&logo=Mozilla&logoColor=CF2B2D)
-![GitHub top language](https://img.shields.io/github/languages/top/JuanCarlosMarino/GraphQlExample)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JuanCarlosMarino/GraphQlExample)
-![Twitter Follow](https://img.shields.io/twitter/follow/mireminombre?style=social)
+![GitHub](https://img.shields.io/github/license/JuanCarlosMarino/Landing-Template)
+![GitHub language count](https://img.shields.io/github/languages/count/JuanCarlosMarino/Landing-Template)
+![GitHub top language](https://img.shields.io/github/languages/top/JuanCarlosMarino/Landing-Template)
+![GitHub repo size](https://img.shields.io/github/repo-size/JuanCarlosMarino/Landing-Template)
+![GitHub contributors](https://img.shields.io/github/contributors/JuanCarlosMarino/Landing-Template)
+![GitHub last commit](https://img.shields.io/github/last-commit/JuanCarlosMarino/Landing-Template)
 
 This is a mobile app landing page that is editable using React and styled components to create a slick and modern web design.
 

@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Landing Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub all releases](https://img.shields.io/github/downloads/JuanCarlosMarino/GraphQlExample/total?color=%2333E0FF&logo=GitHub&logoColor=3364FF)
+![GitHub](https://img.shields.io/github/license/JuanCarlosMarino/GraphQlExample?color=FF3333&logo=Mozilla&logoColor=CF2B2D)
+![GitHub top language](https://img.shields.io/github/languages/top/JuanCarlosMarino/GraphQlExample)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JuanCarlosMarino/GraphQlExample)
+![Twitter Follow](https://img.shields.io/twitter/follow/mireminombre?style=social)
 
-## Available Scripts
+This is a mobile app landing page that is editable using React and styled components to create a slick and modern web design.
 
-In the project directory, you can run:
+## Requirements 📋
 
-### `npm start`
+```
+make sure you have node.js installed
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Quick Start 🚀
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**1. Get the latest version**
+You can start by cloning the latest version of the Repo on your local machine by running:
 
-### `npm test`
+```
+$ git clone https://github.com/JuanCarlosMarino/Landing-Template.git
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**2. Run** npm install
 
-### `npm run build`
+**3. Run** npm start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Built with 🛠️
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* [Node.js](https://nodejs.org/es/)
+* [React](https://es.reactjs.org/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Authors ✒️
 
-### `npm run eject`
+* **Juan Carlos Mariño Morantes** - *Documentation* 
+* **Jorge Luis Oñate Hernández** - *Development and documentation* 
+* **Ciro Alberto Gamboa Entralgo** - *Documentation* 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## License 📄
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is under the License (MIT License) - see the file LICENSE.md for details

@@ -1,6 +1,6 @@
 # Landing Template
 
-![GitHub all releases](https://img.shields.io/github/downloads/JuanCarlosMarino/GraphQlExample/total?color=%2333E0FF&logo=GitHub&logoColor=3364FF)
+![GitHub all releases](https://img.shields.io/github/downloads/JuanCarlosMarino/Landing-Template/total)
 ![GitHub](https://img.shields.io/github/license/JuanCarlosMarino/GraphQlExample?color=FF3333&logo=Mozilla&logoColor=CF2B2D)
 ![GitHub top language](https://img.shields.io/github/languages/top/JuanCarlosMarino/GraphQlExample)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JuanCarlosMarino/GraphQlExample)

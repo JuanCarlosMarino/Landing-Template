@@ -10,8 +10,9 @@
 
 This is a mobile app landing page that is editable using React and styled components to create a slick and modern web design.
 
-<div style="align:center"><img src="/src/images/Demo.jpeg" alt="Demo template"/></div> 
-
+<p align="center">
+  <img src="/src/images/Demo.jpeg" alt="Demo template"/>
+</p>
 
 ## Requirements 📋
 

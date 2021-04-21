@@ -14,8 +14,33 @@ This is a mobile app landing page that is editable using React and styled compon
 </p>
 
 <p align="center">
-  <img src="/src/images/Image1.jpg" alt="Image1"/>
+  <img src="/src/images/Image2.jpg" alt="Image2"/>
 </p>
+
+<p align="center">
+  <img src="/src/images/Image3.jpg" alt="Image3"/>
+</p>
+
+<p align="center">
+  <img src="/src/images/Image4.jpg" alt="Image4"/>
+</p>
+
+<p align="center">
+  <img src="/src/images/Image5.jpg" alt="Image5"/>
+</p>
+
+<p align="center">
+  <img src="/src/images/Image6.jpg" alt="Image6"/>
+</p>
+
+<p align="center">
+  <img src="/src/images/Image7.jpg" alt="Image7"/>
+</p>
+
+<p align="center">
+  <img src="/src/images/Image8.jpg" alt="Image8"/>
+</p>
+
 ## Requirements 📋
 
 ```

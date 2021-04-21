@@ -8,13 +8,14 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/JuanCarlosMarino/Landing-Template)
 
 This is a mobile app landing page that is editable using React and styled components to create a slick and modern web design.
-### Project Structure 🖥
 
-The project is essentially divided into a few folder, the components folder which holds all the elements (and components) that are displayed on screen, things like the background (HeroSection) the Navbar, the section where the phone is implemented, and the sidebar (which in this case is only visible and for smaller screens making it a responsive landing page)
 
 <p align="center">
   <img src="/src/images/Demo.jpeg" alt="Demo template"/>
 </p>
+## Project Structure 🖥
+
+The project is essentially divided into a few folder, the components folder which holds all the elements (and components) that are displayed on screen, things like the background (HeroSection) the Navbar, the section where the phone is implemented, and the sidebar (which in this case is only visible and for smaller screens making it a responsive landing page)
 
 <p align="center">
   <img src="/src/images/Image2.jpg" alt="Image2"/>
@@ -26,7 +27,7 @@ This is the structure of the components of the landing page.
 </p>
 Each component is separated into 2 files, the one name ‘[name]Elements’ are those files which contain the styles and arguments for the index, the index oversees formatting and creating the different elements.
 
-### Examples of Components ⚙
+## Examples of Components ⚙
 
 <p align="center">
   <img src="/src/images/Image4.jpg" alt="Image4"/>

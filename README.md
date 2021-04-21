@@ -13,6 +13,9 @@ This is a mobile app landing page that is editable using React and styled compon
   <img src="/src/images/Demo.jpeg" alt="Demo template"/>
 </p>
 
+<p align="center">
+  <img src="/src/images/Image1.jpg" alt="Image1"/>
+</p>
 ## Requirements 📋
 
 ```

@@ -13,6 +13,7 @@ This is a mobile app landing page that is editable using React and styled compon
 <p align="center">
   <img src="/src/images/Demo.jpeg" alt="Demo template"/>
 </p>
+
 ## Project Structure 🖥
 
 The project is essentially divided into a few folder, the components folder which holds all the elements (and components) that are displayed on screen, things like the background (HeroSection) the Navbar, the section where the phone is implemented, and the sidebar (which in this case is only visible and for smaller screens making it a responsive landing page)
